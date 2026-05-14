@@ -1,0 +1,57 @@
+{
+  "sleep_seconds": 86400,
+  "operators": {
+    "DataIPO": {
+      "address": "0x6344c77725331ff494d7e881d4593afb3691486b",
+      "enabled": true
+    },
+    "SPC2": {
+      "address": "0x9b366a90d9d96f7ceca02f45221c519eb4328edf",
+      "enabled": true
+    },
+    "SRWValid1": {
+      "address": "0xd80fbb95b20ce2dbe6b8854b1a5223109b88b8a4",
+      "enabled": true
+    },
+    "SPC2Valid": {
+      "address": "0x9812c1675f84f2cd8f7ccde065e76be1693e2c6e",
+      "enabled": true
+    },
+    "Starlink3": {
+      "address": "0xf5be4ed41c1385f224a443659117c2b30f4d08ed",
+      "enabled": true
+    },
+    "TokAlchem": {
+      "address": "0x25a9d68e5533b4e475be0d0937c2fb894e4b337e",
+      "enabled": true
+    },
+    "Starlink": {
+      "address": "0xea22dcf1a9ff385eda5585be1fbccaf77486f35f",
+      "enabled": true
+    },
+    "SRWValid5": {
+      "address": "0xb31a14e4977b66a5275397f2a039131aea1896ca",
+      "enabled": true
+    },
+    "SRWValid3": {
+      "address": "0x2b265a56179df97d54ebd4c71de1c20ee445f5e6",
+      "enabled": true
+    },
+    "SRWValid2": {
+      "address": "0xb0faa6915183815bce40162ae55e98ac6c6d4260",
+      "enabled": true
+    },
+    "Starlink2": {
+      "address": "0xb289e350d4383234dd28f777699284d357b6fc43",
+      "enabled": true
+    },
+    "SRWValid6": {
+      "address": "0xa2f819e04e6b97b4f95f0ece0136b4bb8fbf5ca2",
+      "enabled": true
+    },
+    "SRWValid4": {
+      "address": "0xf93781b8d5effbc75980679b85e91dc3275dea49",
+      "enabled": true
+    }
+  }
+}
